@@ -1,1 +1,2 @@
-function 1 in featureA bracnch
+function 1 in featureA branch
+function 2 in featureB branch
