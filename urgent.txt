@@ -1,4 +1,5 @@
 function 1 in featureA branch
 function 2 in featureB branch
 function 3 in Develop branch
+function 4 in release branch
 
